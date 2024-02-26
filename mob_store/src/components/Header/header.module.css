@@ -1,0 +1,36 @@
+.top_nav {
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top_nav > ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+}
+
+.top_nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.top_nav li{
+    margin-right: 8px;
+}
+
+.top_nav li{
+    margin-right: 8px;
+}
+
+.top_nav :last-child{
+    margin-right: 0px;
+}
+
+.header_img{
+    float: left;
+}
+
+

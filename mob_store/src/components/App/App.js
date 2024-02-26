@@ -1,4 +1,4 @@
-import './App.css';
+import './app.css';
 import CardPurple from '../CardPurple/CardPurple'
 import Header from '../Header/Header'
 

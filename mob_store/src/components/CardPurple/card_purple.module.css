@@ -1,7 +1,8 @@
 .card_purple{
     background-color: #250A46;
-    width:20rem;
+    width:56vw;
     height: 20rem;
     border-radius: 1rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 2rem auto 0rem auto;
 }
